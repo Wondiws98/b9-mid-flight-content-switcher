@@ -1,5 +1,5 @@
 # B9 Mid-Flight Content Cwitcher
-Module Manager Patch that enables B9 part switching of all container's mid-flight.
+Simple Module Manager Patch that enables B9 part switching of all container's mid-flight.
 
 The patch simply targets every "ModuleB9PartSwitch" with a "baseVolume" field.
 
