@@ -15,7 +15,7 @@ It will also work on parts that changes appearence upon changing content. It's j
 2. [B9 Part Switch](https://github.com/KSPModStewards/B9PartSwitch)
 
 ## Installation:
-1. Download the .zip archive file from the realease page.
+1. Download the .zip archive file from the [realease page](https://github.com/Wondiws98/b9-mid-flight-content-switcher/releases/tag/Release).
 2. Drag and drop the content of the archive into your KSP install folder.
 
 ## Uninstallation:
