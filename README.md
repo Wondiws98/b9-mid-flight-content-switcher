@@ -8,7 +8,7 @@ Its important to note this will not add B9 part switch modules to tanks, it only
 It will also work on parts that changes appearance upon changing content. It's just how it is...
 
 ## Proof:
-<img width="671" height="729" alt="image" src="https://github.com/user-attachments/assets/e2597bf6-7a6d-4be3-b330-e5f2789ff830" />
+<img width="335" height="365" alt="image" src="https://github.com/user-attachments/assets/e2597bf6-7a6d-4be3-b330-e5f2789ff830" />
 
 ## Depencies:
 1. [Module Manager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/)
