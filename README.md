@@ -10,7 +10,7 @@ It will also work on parts that changes appearance upon changing content. It's j
 ## Proof:
 <img width="335" height="365" alt="image" src="https://github.com/user-attachments/assets/e2597bf6-7a6d-4be3-b330-e5f2789ff830" />
 
-## Depencies:
+## Dependencies:
 1. [Module Manager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/)
 2. [B9 Part Switch](https://github.com/KSPModStewards/B9PartSwitch)
 
